@@ -1,0 +1,3 @@
+[submodule "react-todo"]
+	path = react-todo
+	url = https://github.com/pesovski/react-todo.git
