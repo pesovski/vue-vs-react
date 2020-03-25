@@ -1,0 +1,15 @@
+.linethrough {
+  text-decoration: line-through;
+}
+.bg-success-light {
+  background-color: rgba(40, 167, 69, 0.15);
+}
+.bg-warning-light {
+  background-color: rgba(255, 193, 7, 0.15) !important;
+}
+.bg-danger-light {
+  background-color: rgba(220, 53, 69, 0.15) !important;
+}
+.bg-primary-light {
+  background-color: rgba(0, 123, 255, 0.15) !important;
+}
